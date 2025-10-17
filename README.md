@@ -62,25 +62,25 @@ Age, Anaemia, Creatinine Phosphokinase (mcg/L), Diabetes, Ejection Fraction (%),
 - **Most Affected Age Group:** 60 years  
 
 ### 5. Average Ejection Fraction by Death Events
-- **Survived:** 40%  
-- **Deceased:** 33%
+- **Survived Patients:** 40%  
+- **Deceased Patients:** 33%
 
 ### 6. Biomarker Comparisons by Death Event
 - **Average Creatinine Phosphokinase (CPK)**  
-  - Survived: 540 mcg/L  
-  - Deceased: 670 mcg/L  
+  - **Survived Patients**: 540 mcg/L  
+  - **Deceased Patients**: 670 mcg/L  
 
 - **Average Serum Creatinine**  
-  - Survived: 1.2 mg/dL  
-  - Deceased: 1.8 mg/dL  
+  - **Survived Patients**: 1.2 mg/dL  
+  - **Deceased Patients**: 1.8 mg/dL  
 
 - **Average Platelet Count**  
-  - Survived: 266,658 platelets/µL  
-  - Deceased: 256,381 platelets/µL  
+  - **Survived Patient**s: 266,658 platelets/µL  
+  - **Deceased Patients**: 256,381 platelets/µL  
 
 - **Average Serum Sodium**  
-  - Survived: 137 mEq/L  
-  - Deceased: 135 mEq/L  
+  - **Survived Patients**: 137 mEq/L  
+  - **Deceased Patients**: 135 mEq/L  
 
 ---
 
@@ -89,7 +89,7 @@ Age, Anaemia, Creatinine Phosphokinase (mcg/L), Diabetes, Ejection Fraction (%),
 ### 1. Patient Demographics
 - **Gender:** ~65% of patients were male, indicating a higher prevalence of heart failure in men.  
 - **Age:** The most commonly affected age group was 60 years.  
-  - Average age of deceased: 65 years  
+  - Average age of deceased Patients: 65 years  
   - Average age of survivors: 59 years  
  This suggest that younger patients (below 60) had better survival outcomes, making **age** a significant risk factor.
 
@@ -106,19 +106,19 @@ Suggesting that heart failure often coexists with other chronic diseases rather 
    - A lower average ejection fraction was observed in deceased patients (33%) compared to survivors (40%). Since ejection fraction reflects the percentage of blood the heart pumps out with each beat, this suggests that reduced cardiac pumping capacity is strongly associated with poorer outcomes in heart failure patients. Ejection Fraction is therefore a critical functional indicator of survival.
 
 ### 5. Biomarkers
-- **Serum Creatinine:** Higher in deceased patients (1.8 mg/dL vs 1.2 mg/dL in survivors). Since serum creatinine is a marker of kidney function, elevated levels suggest impaired renal performance, which is known to worsen heart failure outcomes. This highlights that renal function is closely tied to survival in heart failure patients.  
-- **Creatinine Phosphokinase (CPK):** Higher in deceased patients (670 mcg/L vs 540 mcg/L). Elevated CPK is often linked to muscle damage, including cardiac muscle injury, which may signal more severe disease progression or greater stress on the heart. This suggests that increased CPK could be an additional risk factor associated with poorer outcomes in heart failure patients.
+- **Average Serum Creatinine:** Higher in deceased patients (1.8 mg/dL vs 1.2 mg/dL in survivors). Since serum creatinine is a marker of kidney function, elevated levels suggest impaired renal performance, which is known to worsen heart failure outcomes. This highlights that renal function is closely tied to survival in heart failure patients.  
+- **Average Creatinine Phosphokinase (CPK):** Higher in deceased patients (670 mcg/L vs 540 mcg/L in survivors). Elevated CPK is often linked to muscle damage, including cardiac muscle injury, which may signal more severe disease progression or greater stress on the heart. This suggests that increased CPK could be an additional risk factor associated with poorer outcomes in heart failure patients.
 
-- **Serum Sodium:** Slightly lower in deceased patients (135 vs 137 mEq/L). Low sodium (hyponatremia) is a common complication of heart failure, often reflecting fluid overload or advanced disease progression. Even small differences can indicate worsening prognosis, making serum sodium a useful biomarker for identifying at-risk patients. 
+- **Average Serum Sodium:** Slightly lower in deceased patients (135 vs 137 mEq/L in survivors). Low sodium (hyponatremia) is a common complication of heart failure, often reflecting fluid overload or advanced disease progression. Even small differences can indicate worsening prognosis, making serum sodium a useful biomarker for identifying at-risk patients. 
  
-- **Platelets:** Slightly lower in deceased patients (256,381 vs 266,658 platelets/µL), though within normal range.  
+- **Average Platelets count:** Slightly lower in deceased patients (256,381 vs 266,658 platelets/µL in survivors), though within normal range.  
 These findings suggest that higher creatinine phosphokinase levels, higher serum creatinine levels and lower serum sodium levels are associated with worse outcomes. These biomarkers may serve as useful indicators for identifying at-risk patients.
 
 ---
 
 ## 📈 Recommendations
 
--**Early Detection & Monitoring:**  
+- **Early Detection & Monitoring:**  
 Hospitals should prioritize the regular monitoring of key clinical indicators — including ejection fraction, creatinine phosphokinase, serum creatinine, serum sodium levels, and blood pressure, as these strongly correlate with mortality. Patients with abnormal values should be promptly identified and provided with timely, targeted, and optimized medical interventions to reduce the risk of adverse outcomes.
 
 - **Targeted Interventions for Underlying Conditions:**  
@@ -131,7 +131,7 @@ Hospitals should prioritize the regular monitoring of key clinical indicators �
   Preventive measures and more aggressive interventions for patients above 60 should be implemented, as age significantly impacts outcomes.
 
 - **Addressing Gender Disparities:**  
-  Develop outreach programs specifically for men, since they appear to have higher prevalence in this dataset. Focus on education about early symptoms (e.g., breathlessness, fatigue, swelling) and the importance of routine check-ups. Recommend regular cardiovascular screenings for men above 40–50 years, especially those with risk factors (hypertension, diabetes, smoking). While men may be more represented, ensure women are not overlooked.
+  Develop outreach programs specifically for men, since they appear to have higher prevalence in this dataset. Focus on education about early symptoms and the importance of routine check-ups. Recommend regular cardiovascular screenings for men above 40–50 years, especially those with risk factors (hypertension, diabetes, smoking). While men may be more represented, ensure women are not overlooked.
 
 - **Data-Driven Decision-Making:**  
   Interactive dashboards in clinical settings should be deployed to help healthcare professionals track critical metrics in real-time.
@@ -150,4 +150,4 @@ Hospitals should prioritize the regular monitoring of key clinical indicators �
 **👩‍💻 Oluwatobiloba Taiwo**  
 📧 [taiwooluwatobiloba2904@gmail.com](mailto:taiwooluwatobiloba2904@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwatobiloba-taiwo-dvm-b43b51366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-🌐 *Portfolio Website:* *(available shortly)*
+🌐 *Portfolio Website:* *(will be available shortly)*
